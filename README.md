@@ -2,10 +2,12 @@
 
 I'm a computer science student at the University of Washington. Interested in low-level/system programming & graphics.
 
-
 <h3 align="left">Connect with me:</h3>
-Contact: nguyendoanhoang0705@gmail.com
-More at: [kipiiler.me](https://kipiiler.me)
+
+Contact: nguyendoanhoang0705@gmail.com.
+
+More at: <a href="https://www.kipiiler.me/">kipiiler.me</a>
+
 <p align="left">
 </p>
 
